@@ -1,0 +1,24 @@
+# macOS system files
+.DS_Store
+
+# Logs
+logs/
+*.log
+
+# Node modules (if you're using a package manager like npm or yarn)
+node_modules/
+
+# Build directory (if applicable)
+dist/
+build/
+
+# Temporary files
+*.tmp
+*.temp
+
+# IDE specific files
+.vscode/
+.idea/
+
+# Cache
+.cache/
